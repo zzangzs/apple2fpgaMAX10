@@ -1,1 +1,1 @@
-# apple2fpgaMAX10
+# apple2fpga_MAX10
